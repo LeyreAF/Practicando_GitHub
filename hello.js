@@ -1,12 +1,7 @@
 console.log("Hello world");
 
-function hiThere(){
-    console.log("Hi");
-}
-
 function hiThereAgain(){
-    console.log("My local change");
+   console.log("Update function for merge conflict demo");
 }
 
-hiThere();
 hiThereAgain();
