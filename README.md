@@ -7,3 +7,5 @@
 > Added to master
 
 > Made changes for git pull demo
+
+> Made changes for git fetch demo
