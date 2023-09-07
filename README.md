@@ -9,3 +9,5 @@
 > Made changes for git pull demo
 
 > Made changes for git fetch demo
+
+> Made changes for git delete demo
